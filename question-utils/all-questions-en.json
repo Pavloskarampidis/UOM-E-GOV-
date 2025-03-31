@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "question": "What is the reason for your unemployment status?",
+        "options": ["I have been laid off from my company, or the company I worked for has closed down.", "My fixed-term employment contract has expired.", "I have never worked in the past or I resigned from my job."]
+    },
+    {
+        "id": 1,
+        "question": "Are you a permanent and legal resident of Greece?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Which of the following age categories do you belong to?",
+        "options": ["Greek citizen under 25 years old", 
+                    "Age between 26-35 years old",
+                    "Age between 36- 45 years old",
+                    "Agen between 46 - 55 years old",
+                    "Agen betwenn 56 - 62 years old"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Have you fulfilled military obligations and you are able for work?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Which of the following categories do you belong to?",
+        "options": ["I am an unemployed adult who have had a long term card ",
+                   "I have worked in private sector and currently unemployed", 
+                   "I am an unemployed adult who belongs in a special occasion for special unemployment card"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Which of the following categories do you belong to?",
+        "options": ["Male, adult, currently unemployed, for the general unemployment card",
+                    "Female, adult, currently unemployed for the general unemployment card",
+                   "Male or Female, currently unemployed for the special unemployment card"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Please declare your status below:",
+        "options": ["I am applying for the card myself",
+                   "I am an authorized person of the cardholder",
+                   "I am the guardian of the cardholder"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Choose for which means of card you are applying",
+        "options": ["General duration, 3 months",
+                   "For a special occasion unemployment card"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Choose the category you belong to:",
+        "options": ["Individual income is <strong>less than</strong> 23,000 or family income is <strong>less than</strong> 29,000",
+                   "Individual income is <strong>greater than</strong> 23,000 or family income is <strong>greater than</strong> 29,000"
+        ]
+    }
+]

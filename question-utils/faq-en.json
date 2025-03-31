@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "How much does the issuance of the unemployment card for the year 2025 cost?",
+        "answer": "It is provided free of charge."
+    },
+    {
+        "id": 1,
+        "question": "I am an adult who is currently fulfilling military obligations, or i have not fullfilled them but i am an unemployed adult. Can I apply?",
+        "answer": "No, all male adults who apply for the unemployment card must have not any military obligations ongoing."
+    },
+    {
+        "id": 2,
+        "question": "What is the validity period of the unemployment card ?",
+        "answer": "The card is valid from the date of issuance until 3 months duration period."
+    },
+    {
+        "id": 3,
+        "question": "Is the issuance process of the transportation card for the disabled available digitally?",
+        "answer": "Yes there is a digital form of the unemployment card available"
+    },
+    {
+        "id": 4,
+        "question": "Are there remote service points available so i can learn more about the drill?",
+        "answer": "Yes, there are. You can visit https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%88%CE%BA%CE%B4%CE%BF%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CE%B1%CE%BD%CE%B5%CF%81%CE%B3%CE%AF%CE%B1%CF%82"
+    }
+]
